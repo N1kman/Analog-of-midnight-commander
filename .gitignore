@@ -1,0 +1,9 @@
+*.pdf
+*.o
+*.txt
+build-remote_explorer-Desktop-Debug/moc_mainwindow.cpp
+build-remote_explorer-Desktop-Debug/moc_predefs.h
+build-remote_explorer-Desktop-Debug/qrc_style.cpp
+build-remote_explorer-Desktop-Debug/ui_mainwindow.h
+build-remote_explorer-Desktop-Debug/remote_explorer
+server/server
